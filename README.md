@@ -1,4 +1,4 @@
-# lecture documents in 2025 / 授業(群)のテキストなど
+# lecture documents in 2026 / 授業(群)のテキストなど
 
 - We distribute documents e.g. Text, Worksheets and et.al. here.
 - 授業(群)のテキストなどを配布するサイトです
@@ -15,7 +15,7 @@
 
 ## コンピュータネットワーク
 
-- 前半(#01-#07)のスライド[合併版](skill-network/network-2025-text_01-07.pdf)
+- 前半(#01-#07)のスライド[合併版](skill-network/network-2026-text_01-07.pdf)
 - 後半は未作成（とりあえず2024年版は[こちら](https://2024.lectures.fml.org/)）
 
 ## クラウドコンピューティング
@@ -30,8 +30,8 @@
 
 ## 情報技術応用特論（大学院、#01-#07）
 
-- [コンピュータネットワーク(#01-#04前半の合体版)](graduate/graduate-network-2025.pdf)
-- [オペレーティングシステム(#04後半～#06の合体版)](graduate/graduate-os-2025.pdf)
+- [コンピュータネットワーク(#01-#04前半の合体版)](graduate/graduate-network-2026.pdf)
+- [オペレーティングシステム(#04後半～#06の合体版)](graduate/graduate-os-2026.pdf)
 
 
 ## 参考資料
